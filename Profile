@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>个人简历 Personal Profile</title>
+</head>
+<body>
+<div>
+    <table border="1px" width="800" align="center">
+        <tr>
+            <th><font style="font-size: 35px">Name</font></th>
+            <th rowspan="5">image</th>
+            
+        </tr>
+
+        <tr>
+            <th>Tel: 17695942814</th>
+        </tr>
+
+        <tr>
+            <th>QQ: 342156545</th>
+        </tr>
+
+        <tr>
+            <th>Mail: JonMecco@hotmail.com</th>
+        </tr>
+
+        <tr>
+            <th>University</th>
+        </tr>
+    </table>
+
+    
+    <table border="1px" width="800" align="center">
+
+         <tr>
+            <th colspan="4" height="10px"></th>
+         </tr>
+
+         <tr>
+            <th colspan="4">学习成果</th>
+         </tr>
+
+         <tr>
+            <th width="150px"></th>
+            <th>英语四六级</th>
+            <th width="150px"></th>
+            <th>天津市中饮协杯优秀奖</th>
+         </tr>
+
+         <tr>
+             <th></th>
+             <th>校长奖学金三等奖</th>
+             <th></th>
+             <th>天津市互联网＋大赛市二等奖</th>
+         </tr>
+
+         <tr>
+             <th></th>
+             <th>化学知识竞赛三等奖</th>
+             <th></th>
+             <th>全国大学生数学竞赛（CMC）初赛二等奖</th>
+         </tr>
+
+         <tr>
+             <th></th>
+             <th>三好学生称号</th>
+             <th></th>
+             <th></th>
+         </tr>
+    </table>
+</div>
+
+</body>
+</html>
