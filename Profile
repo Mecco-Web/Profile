@@ -14,15 +14,15 @@
         </tr>
 
         <tr>
-            <th>Tel: 17695942814</th>
+            <th>Tel: 111111111</th>
         </tr>
 
         <tr>
-            <th>QQ: 342156545</th>
+            <th>QQ: 11111111111</th>
         </tr>
 
         <tr>
-            <th>Mail: JonMecco@hotmail.com</th>
+            <th>Mail:111111111111</th>
         </tr>
 
         <tr>
@@ -45,21 +45,21 @@
             <th width="150px"></th>
             <th>英语四六级</th>
             <th width="150px"></th>
-            <th>天津市中饮协杯优秀奖</th>
+            <th>很多很多很多很多</th>
          </tr>
 
          <tr>
              <th></th>
              <th>校长奖学金三等奖</th>
              <th></th>
-             <th>天津市互联网＋大赛市二等奖</th>
+             <th>好多好多好多和</th>
          </tr>
 
          <tr>
              <th></th>
              <th>化学知识竞赛三等奖</th>
              <th></th>
-             <th>全国大学生数学竞赛（CMC）初赛二等奖</th>
+             <th>好多好多好多的话</th>
          </tr>
 
          <tr>
